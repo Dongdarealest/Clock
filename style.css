@@ -2,6 +2,11 @@ body{
     margin: 0%;
     padding: 0%;
     background: black;
+@media all and (max-width: 320px) {
+   body {
+      background: #e7e7e7;
+   }
+}
 }
 .container{
     font-family: "Arial", Helvetica, sans-serif;
