@@ -25,3 +25,8 @@ body {
   padding: 0;
   background-color: #000;
 }
+@media all and (max-width: 320px) {
+   body {
+      background: #e7e7e7;
+   }
+}
